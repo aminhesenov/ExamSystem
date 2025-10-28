@@ -1,0 +1,17 @@
+D:\C# lesson\ExamSystem\ExamSystem\bin\Debug\net8.0-windows\ExamSystem.exe
+D:\C# lesson\ExamSystem\ExamSystem\bin\Debug\net8.0-windows\ExamSystem.deps.json
+D:\C# lesson\ExamSystem\ExamSystem\bin\Debug\net8.0-windows\ExamSystem.runtimeconfig.json
+D:\C# lesson\ExamSystem\ExamSystem\bin\Debug\net8.0-windows\ExamSystem.dll
+D:\C# lesson\ExamSystem\ExamSystem\bin\Debug\net8.0-windows\ExamSystem.pdb
+D:\C# lesson\ExamSystem\ExamSystem\obj\Debug\net8.0-windows\ExamSystem.Form1.resources
+D:\C# lesson\ExamSystem\ExamSystem\obj\Debug\net8.0-windows\ExamSystem.Properties.Resources.resources
+D:\C# lesson\ExamSystem\ExamSystem\obj\Debug\net8.0-windows\ExamSystem.csproj.GenerateResource.cache
+D:\C# lesson\ExamSystem\ExamSystem\obj\Debug\net8.0-windows\ExamSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# lesson\ExamSystem\ExamSystem\obj\Debug\net8.0-windows\ExamSystem.AssemblyInfoInputs.cache
+D:\C# lesson\ExamSystem\ExamSystem\obj\Debug\net8.0-windows\ExamSystem.AssemblyInfo.cs
+D:\C# lesson\ExamSystem\ExamSystem\obj\Debug\net8.0-windows\ExamSystem.csproj.CoreCompileInputs.cache
+D:\C# lesson\ExamSystem\ExamSystem\obj\Debug\net8.0-windows\ExamSystem.dll
+D:\C# lesson\ExamSystem\ExamSystem\obj\Debug\net8.0-windows\refint\ExamSystem.dll
+D:\C# lesson\ExamSystem\ExamSystem\obj\Debug\net8.0-windows\ExamSystem.pdb
+D:\C# lesson\ExamSystem\ExamSystem\obj\Debug\net8.0-windows\ExamSystem.genruntimeconfig.cache
+D:\C# lesson\ExamSystem\ExamSystem\obj\Debug\net8.0-windows\ref\ExamSystem.dll
